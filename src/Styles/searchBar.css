@@ -1,0 +1,37 @@
+.searchInput {
+    border-style: none;
+    background-color: rgb(11, 104, 99);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    border-radius: 10px;
+    position: absolute;
+    left: 502px;
+    bottom: 530px ;
+}
+
+.searchinputdiv {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.searchBtn{
+    background-color: rgb(11, 104, 99);
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    position: absolute;
+    left: 737px;
+    bottom: 530px;
+}
+
+.searchBtn:hover{
+    background-color: gold;
+    color: black;
+}
+
+.searchDivBtn{
+text-align: center;
+}
